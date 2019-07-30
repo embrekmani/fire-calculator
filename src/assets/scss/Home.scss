@@ -1,0 +1,23 @@
+html {
+    scroll-behavior: smooth;
+}
+
+form {
+    margin-bottom: 1rem;
+}
+
+.beta {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.output {
+    min-height: 100vh;
+    padding-top: 3rem;
+    &.hidden {
+        display: none;
+    }
+    p {
+        font-size: 1.5rem;
+    }
+}
