@@ -1,4 +1,0 @@
-[build]
-base = "fire-calculator/"
-publish = "fire-calculator/build/"
-command = "yarn build"
